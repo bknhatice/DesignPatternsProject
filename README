@@ -1,0 +1,3 @@
+Bir elektronik marketin siparişleri oluşturma, ürün bilgileri, ödeme bilgileri ve kargo bilgileri içeren proje oluşturdum. Projede Singleton, factory, 
+abstract factory, builder, prototype, mediator, chain of responsibility ve observer tasarım desenlerini kullandım. Projenin daha önceden çizdiğim UML
+diyagramına göre chatGPT’ye anlattım ve chatGPT yanıtlarına göre kodları düzenledim
